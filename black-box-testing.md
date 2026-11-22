@@ -119,4 +119,3 @@ These cases illustrate how a QA analyst can:
 4. Preserve a failed result and distinguish it from any unverified fix.
 5. Maintain links among requirements, test cases, and test data.
 
-They do **not** establish personal ownership of every case, professional game-testing experience, automated test execution, or independent certification of the results.
