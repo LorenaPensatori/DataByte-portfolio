@@ -44,19 +44,20 @@ The documentation provides examples of understanding requirements, preparing val
 
 ## Portfolio contents
 
-This repository is being organized progressively. Planned documentation includes:
+This repository contains selected QA documentation from the collaborative DataByte academic project:
 
-- **Black-box testing:** selected original scenarios and their recorded outcomes.
-- **White-box testing:** method-level logic and path analysis.
-- **Test cases:** a curated selection of cases traceable to the original identifiers.
-- **Test data:** relevant inputs and preconditions, anonymized where necessary.
-- **System overview:** project context and architecture relevant to testing.
-
-Materials will be added one at a time after review. Original academic PDFs are **not** included here.
+- [System Overview](documentation/system-overview.md): project context, intended functionality, architecture and QA scope.
+- [Black-box Testing](testing/black-box-testing.md): selected functional scenarios and their historically recorded outcomes.
+- [White-box Testing](testing/white-box-testing.md): control-flow analysis, cyclomatic complexity and basis-path test design.
+- [Test Cases](testing/test-cases.md): 125 documented test cases and their traceability references.
+- [Test Data](testing/test-data.md): 125 associated test-data records and documented preconditions.
+- [API Testing](testing/api-testing.md): 11 documented POST creation scenarios with recorded HTTP 201 responses.
 
 ## Responsible sharing
 
-Examples are prepared from the team's academic documentation. Before publication, any screenshots, payloads, code snippets, or test datasets must be checked for credentials, tokens, server secrets, personal identifiers, internal addresses, and other sensitive information. Sharing team materials also requires appropriate authorization.
+This repository contains curated summaries of collaborative academic work. Original source documents, credentials, personal identifiers, internal infrastructure details and other sensitive information are excluded.
+Historical results are presented with their original evidence limitations. No new test executions, fixes or independent coverage measurements are implied.
+Materials will be added one at a time after review. Original academic PDFs are **not** included here.
 
 ## About me
 
