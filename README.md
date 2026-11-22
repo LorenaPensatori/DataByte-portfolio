@@ -4,7 +4,7 @@
 
 This repository documents quality assurance activities carried out as part of **DataByte**, a collaborative academic software project developed by a three-member team at **Escuela Superior de Informática (UTU), Uruguay**.
 
-I am **Lorena Pensatori**, an Information Technology graduate interested in beginning my career as a **Junior QA Analyst**, particularly in the video game industry. I participated in the DataByte project as a team member and coordinator, contributing to the collaborative development and validation process.
+I am **Lorena Pensatori**, an Information Technology graduate interested in beginning my career as a **Junior QA Analyst**, particularly in the video game industry. I participated in DataByte as a project coordinator and development team member, collaborating on software development, functional validation, and technical documentation.
 
 > **Scope and attribution:** Testing artifacts in this repository represent work produced by the **DataByte team**. They are not presented as tests individually authored or executed by me. Results are historical records from our academic documentation, not new test executions or an independent certification of the system.
 
@@ -56,8 +56,7 @@ This repository contains selected QA documentation from the collaborative DataBy
 ## Responsible sharing
 
 This repository contains curated summaries of collaborative academic work. Original source documents, credentials, personal identifiers, internal infrastructure details and other sensitive information are excluded.
-Historical results are presented with their original evidence limitations. No new test executions, fixes or independent coverage measurements are implied.
-Materials will be added one at a time after review. Original academic PDFs are **not** included here.
+Historical results are presented with their original evidence limitations. No new test executions, fixes or independent coverage measurements are implied. Original academic PDFs are **not** included here.
 
 ## About me
 
