@@ -120,10 +120,3 @@ These cases illustrate how a QA analyst can:
 5. Maintain links among requirements, test cases, and test data.
 
 They do **not** establish personal ownership of every case, professional game-testing experience, automated test execution, or independent certification of the results.
-
-## 5. Source documents (not included in this public-facing folder)
-
-- DataByte team, *Caja Negra DataByte*, 118 pages, 5 November 2026: `CN-001`, `CN-002`, `CN-003`, `CN-022`, `CN-046`.
-- DataByte team, *Documento integrador — Tercera Entrega*, version 3.0, 6 November 2026: section **3.5.4 Casos de Prueba con Juegos de Datos** (`CP-073` to `CP-125` / corresponding JD identifiers), and functional requirements `RF-22` and `RF-23`.
-
-**Sharing note:** Do not upload source PDFs or raw screenshots, source code, real identities, credentials, tokens, or infrastructure details to a public repository without separate security review and team authorization.
